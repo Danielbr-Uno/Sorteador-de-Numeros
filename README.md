@@ -84,7 +84,3 @@ Aqui listamos ideias de melhorias e novas funcionalidades que podem ser implemen
 6. **Funções avançadas**  
    - Sorteios ponderados (números com mais chance de aparecer).  
    - Sorteio de letras, palavras ou combinações de números.  
-
-7. **Gamificação**  
-   - Adicionar desafios ou conquistas para os usuários que realizarem múltiplos sorteios.  
-   - Ranking de “sortudos” com base em histórico de acertos.
